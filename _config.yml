@@ -26,8 +26,8 @@ author:
   name             : "Matthew Frasaer"
   pronouns         : # example: "she/her"  
   bio              : "I am deeply interested in the world around me and the ways that I can contribute to making it better. I would like to take my bachelor degree and use it to improve housing, labour, and immigration policy in Canada. Data and sound thinking should guide policy but our governments should also have a clear focus on the voices of the people and facilitate more opportunities for direct democracy."
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Vancouver, BC, Canada"
+  employer         : "Simon Fraser University"
   uri              : # URL
   email            : "none@example.org" 
 
@@ -35,7 +35,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0005-3617-7187"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
