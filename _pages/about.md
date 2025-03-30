@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my page for papers I've written and projects that I have completed through out my undergraduate degree and beyond. This includes papers that I completed while studying Economics, Psychology, Public Policy, Communications, History, and more. After completeing my undergraduate degree I have begun working on projects that expand my knowledge on labour markets, housing in the Metro Vancouver area, immigration and more.
+Welcome to my page for papers I've written and projects that I have completed through out my undergraduate degree and beyond. This includes papers that I completed while studying Economics, Psychology, Public Policy, Communications, History, and more. After completing my undergraduate degree, I began working on projects that expanded my knowledge on labour markets, housing in the Metro Vancouver area, immigration and more.
 
-A personal website for me to showcase my experiments in learening and asking questions
+A personal website for me to showcase my experiments in learning and asking questions
 ======
 There are too many questions to ask and not enough answers at hand! 
-This is a place for me to test my ideas and self publish whatever I find as I explore the world around me through data and 
+This is a place for me to test my ideas and self-publish whatever I find as I explore the world around me through data and 
 
 Professional words and statements
 
