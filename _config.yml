@@ -13,7 +13,7 @@ title                    : "Matthew's project page"
 title_separator          : "-"
 name                     : &name "Matthew Fraser"
 description              : &description "Graduate of Simon Fraser University, majoring in Economics, concentration in Data Analytics, 1st minor in Public Policy, 2nd minor in Psychology"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://mf-workpage.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -29,7 +29,7 @@ author:
   location         : "Vancouver, BC, Canada"
   employer         : "Simon Fraser University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "fraser.ttam@outlook.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -37,7 +37,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0005-3617-7187"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #
   researchgate     : # URL
   scopus           : # URL
 
